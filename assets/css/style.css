@@ -89,7 +89,7 @@ nav a:hover {
 
 /*       V  BANNER SECTION  V     */
 .banner {
-    background-image: url(/assets/images/banner-lernantino-example.jpg);
+    background-image: url("/assets/images/banner-lernantino-example.jpg");
     height: 200px;
     display: flex;
     align-items: flex-end;
