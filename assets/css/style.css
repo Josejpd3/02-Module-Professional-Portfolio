@@ -124,7 +124,7 @@ nav a:hover {
 
 /*       V  BANNER SECTION  V     */
 .banner {
-    background-image: url("https://via.placeholder.com/418x80.png?text=Placeholder+image");
+    background-image: url("https://images.pexels.com/photos/2288849/pexels-photo-2288849.jpeg?cs=srgb&dl=pexels-engin-akyurt-2288849.jpg&fm=jpg");
     height: 200px;
     display: flex;
     align-items: flex-end;
@@ -269,23 +269,23 @@ main {
 }
 
 #surf-work {
-    background-image: url("/assets/images/pexels-pixabay-270408.jpg");
+    background-image: url("https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?cs=srgb&dl=pexels-luis-gomes-546819.jpg&fm=jpg");
 }
 
 #led-wall-work {
-    background-image: url("/assets/images/pexels-ricardo-esquivel-1964471.jpg");
+    background-image: url("https://images.pexels.com/photos/3002137/pexels-photo-3002137.jpeg?cs=srgb&dl=pexels-athena-3002137.jpg&fm=jpg");
 }
 
 #calculator-work {
-    background-image: url("/assets/images/pexels-kindel-media-7054756.jpg");
+    background-image: url("https://images.pexels.com/photos/7054756/pexels-photo-7054756.jpeg?cs=srgb&dl=pexels-kindel-media-7054756.jpg&fm=jpg");
 }
 
 #puzzels-work {
-    background-image: url("/assets/images/pexels-pixabay-269399.jpg");
+    background-image: url("https://images.pexels.com/photos/269399/pexels-photo-269399.jpeg?cs=srgb&dl=pexels-pixabay-269399.jpg&fm=jpg");
 }
 
 #run-buddy-work {
-    background-image: url("/assets/images/pexels-francesco-ungaro-1670977.jpg");
+    background-image: url("https://images.pexels.com/photos/1670977/pexels-photo-1670977.jpeg?cs=srgb&dl=pexels-francesco-ungaro-1670977.jpg&fm=jpg");
 }
 
 .work-container .work-title {
