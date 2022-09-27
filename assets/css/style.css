@@ -16,8 +16,6 @@ h3 {
     margin-top: 35px;
 }
 
-
-
 @media screen and (max-width: 720px) {
     h3 {
         direction: ltr;
@@ -36,8 +34,6 @@ h3 {
         font-size: 35px;
     }
 }
-
-
 
 p {
     color: #405374;
@@ -115,9 +111,6 @@ nav a:hover {
     
 } 
 
-
-
-
 /*       ^  HEADER SECTION  ^   (END)  */
 
 /* \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ */
@@ -193,10 +186,6 @@ main {
         width: 60%;
     }
 }
-
-
-
-
 
 @media screen and (max-width: 720px) {
     .about-me-section {
@@ -427,13 +416,6 @@ main {
         margin-bottom: 100px;
     }
 }
-
 /*       ^  CONTACT ME SECTION  ^   (END)  */
 
 /* \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ */
-
-
-
-
-
-
