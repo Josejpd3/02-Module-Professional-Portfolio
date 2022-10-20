@@ -255,14 +255,14 @@ main {
 .work-secondary:hover {
     opacity: 1;
     cursor: pointer;
-}
+} 
 
 #surf-work {
     background-image: url("https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?cs=srgb&dl=pexels-luis-gomes-546819.jpg&fm=jpg");
 }
 
-#led-wall-work {
-    background-image: url("https://images.pexels.com/photos/3002137/pexels-photo-3002137.jpeg?cs=srgb&dl=pexels-athena-3002137.jpg&fm=jpg");
+#nomadic-adventures-work {
+    background-image: url("/assets/images/NA-center-screenshot.jpg");
 }
 
 #calculator-work {
@@ -281,8 +281,9 @@ main {
     background-color: #92ccce;
     font-size: 35px;
     display: flex;
+    flex-direction: column;
     flex-wrap: wrap;
-    width: 190px;
+    width: auto;
     height: 60px;
     padding: 10px;
     line-height: 1.2;
